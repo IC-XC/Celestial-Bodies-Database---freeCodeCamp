@@ -58,7 +58,7 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 • All columns named name should be of type VARCHAR
 
-• ach primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
+• Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
 
 • Each foreign key column should have the same name as the column it is referencing
 

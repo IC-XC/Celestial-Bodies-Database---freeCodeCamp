@@ -62,15 +62,15 @@ Each primary key column should follow the naming convention table_name_id. For e
 
 Each foreign key column should have the same name as the column it is referencing
 
-References
-Planets
-Constellations
-Constellation Guide
-Galaxies
-Black holes
-Moons
-Deep-sky objects
-88 Constellations
-Constellation name meanings with images
-Some more on constellations
-Astronomy Blog
+## References
+• Planets
+• Constellations
+• Constellation Guide
+• Galaxies
+• Black holes
+• Moons
+• Deep-sky objects
+• 88 Constellations
+• Constellation name meanings with images
+• Some more on constellations
+• Astronomy Blog

@@ -14,7 +14,7 @@ A PostgreSQL project as a part of the Relational Database course https://www.fre
 ## If you are saving your progress on freeCodeCamp.org, after getting all the tests to pass, follow the instructions above to save a dump of your database. Save the universe.sql file in a public repository and submit the URL to it on freeCodeCamp.org.
 
 ## Complete the tasks below
-• # You should create a database named universe
+• You should create a database named universe
 
 Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon
 

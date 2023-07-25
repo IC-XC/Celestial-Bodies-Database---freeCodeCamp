@@ -1,4 +1,5 @@
-## 📖 Celestial-Bodies-Database-freeCodeCamp
+# 📖 Celestial-Bodies-Database-freeCodeCamp
+# 👣 Relational Database - Celestial Bodies Database
 
 ### A PostgreSQL project as a part of the Relational Database course 
 ### 👀 https://www.freecodecamp.org/learn/relational-database/
